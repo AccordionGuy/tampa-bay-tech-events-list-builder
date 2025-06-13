@@ -3,5 +3,6 @@ ipywidgets # Interactive widgets for Jupyter notebooks
 openai  # OpenAI API
 pyperclip # Give copy/paste access to the clipboard
 python-dotenv # Load environment variables from .env file
+requests # HTTP library for making requests
 selenium # Web automation library
 webdriver-manager # Automatically manage browser drivers for Selenium
